@@ -24,7 +24,10 @@
     "coveralls": "^2.11.8",
     "lodash.initial": "^4.0.4",
     "lodash.last": "^3.0.0",
-    "lodash.merge": "^4.4.0"
+    "lodash.merge": "^4.4.0",
+    "radium": "^0.17.1",
+    "react": "^0.14.0 || ^15.0.0-0",
+    "react-dom": "^0.14.0 || ^15.0.0-0"
   },
   "devDependencies": {
     "babel-polyfill": "^6.8.0",
@@ -41,11 +44,6 @@
     "sinon": "^1.17.4",
     "sinon-chai": "^2.8.0",
     "webpack-dev-server": "^1.14.1"
-  },
-  "peerDependencies": {
-    "radium": "^0.17.1",
-    "react": "^0.14.0 || ^15.0.0-0",
-    "react-dom": "^0.14.0 || ^15.0.0-0"
   },
   "author": "Tyler Thompson"
 }
